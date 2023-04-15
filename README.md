@@ -1,3 +1,4 @@
 # py-course
 
-Advanced python
+Advanced python course
+pandas
